@@ -1,4 +1,4 @@
-echo "# Smart Rain Detector
+<!-- echo "# Smart Rain Detector -->
 
 ## 🌧️ Problem Statement
 During the monsoon, we often rush to bring clothes inside to protect them from unexpected rain. This project solves that real-world problem automatically.
@@ -30,6 +30,6 @@ This system automates cloth collection and re-drying, saving time and protecting
 ## 👩‍💻 Author
 **Trushi Jasani**
 
----
+<!-- ---
 
-" > README.md
+" > README.md -->
