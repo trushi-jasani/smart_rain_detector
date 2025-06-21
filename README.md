@@ -24,8 +24,8 @@ This system automates cloth collection and re-drying, saving time and protecting
 ## 📦 Status
 ✅ Working prototype tested in real conditions.
 
-## 📸 Images / Video (Optional)
-*You can add demo images or YouTube video links here.*
+<!-- ## 📸 Images / Video (Optional)
+*You can add demo images or YouTube video links here.* -->
 
 ## 👩‍💻 Author
 **Trushi Jasani**
